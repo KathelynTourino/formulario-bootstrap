@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bbd7f7;
+    color: #333;
+}
+
+.card-title {
+    color: #3530c6;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.card {
+    margin: 20px auto;
+    max-width: 1000px;
+}
+
+legend {
+    font-size: 20px;
+    font-weight: bold;
+    color: #3530c6;
+}
+
+fieldset {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.btn {
+    min-width: 120px;
+}
